@@ -29,15 +29,50 @@ Using **IBM Cognos Analytics, Python, SQL, and API-driven data collection**, thi
 
 ## 🌐 Live Demo Access
 
-🔎 Explore the project through live notebooks, source code, dashboards, and an executive-ready presentation.
 
-| Environment | Link |
-|------------|------|
-| 🧠 **Open in Colab** | <a href="https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a><br/>Run directly in Google Colab (no setup required) |
-| 💻 **View on GitHub** | [Browse source code, datasets, and visuals](https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone) |
-| 📊 **Dashboard Demo**   | Interactive IBM Cognos Analytics dashboards visualizing programming language and database trends |
-| 📄 **Executive Presentation (pdf)**  | [View executive slide deck](The_Future_of_Tech_Skills_Presentation.pdf) |
 
+<table>
+  <thead>
+    <tr>
+      <th>Environment&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🧠 <strong>Open in Colab</strong></td>
+      <td>
+        <a href="https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb" target="_blank">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
+        </a>
+        <br/>
+        Run directly in Google Colab (no setup required)
+      </td>
+    </tr>
+    <tr>
+      <td>💻 <strong>View on GitHub</strong></td>
+      <td>
+        <a href="https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone">
+          Browse source code, datasets, and visuals
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>📊 <strong>Dashboard Demo</strong></td>
+      <td>
+        Interactive IBM Cognos Analytics dashboards visualizing programming language and database trends
+      </td>
+    </tr>
+    <tr>
+<td>📄 <strong>Presentation</strong></td>
+      <td>
+        <a href="The_Future_of_Tech_Skills_Presentation.pdf">
+          View executive slide deck
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
