@@ -1,6 +1,6 @@
 <p align="center">
   <img width="1536" height="1024" alt="ef08ebb0-4814-46b8-8267-cd431d0e5500" src="https://github.com/user-attachments/assets/9201cadb-c709-4368-9fe4-bca833ec27bf" />
-" 
+
 </p>
 
 # 💡 The Future of Tech Skills — Data-Driven Insights
@@ -23,17 +23,24 @@ Using **IBM Cognos Analytics, Python, SQL, and API-driven data collection**, thi
 - **Toolset:** IBM Cognos Analytics for dashboards · Python & APIs for data collection  
 - **Outcome:** Actionable insights into **skill trends and technology adoption**
 
+
+
 ---
 
 ## 🌐 Live Demo Access
 
+🔎 Explore the project through live notebooks, source code, dashboards, and an executive-ready presentation.
+
 | Environment | Link |
-|--------------|------|
-| 🧠 **Open in Colab** | <a href="https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a> Run directly in Google Colab (no setup required) |
-| 💻 **View on GitHub** | [Browse code, data, and visuals](https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone) |
-| 📊 **Dashboard Demo** | Interactive IBM Cognos Analytics dashboards visualizing language and database trends |
+|------------|------|
+| 🧠 **Open in Colab** | <a href="https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a><br/>Run directly in Google Colab (no setup required) |
+| 💻 **View on GitHub** | [Browse source code, datasets, and visuals](https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone) |
+| 📊 **Dashboard Demo** | Interactive IBM Cognos Analytics dashboards visualizing programming language and database trends |
+| 📄 **Executive Presentation (PDF)** | [View executive slide deck](docs/The_Future_of_Tech_Skills_Presentation.pdf) |
+
 
 ---
+
 
 ## 🧭 About This Project
 
