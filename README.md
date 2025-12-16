@@ -36,7 +36,7 @@ Using **IBM Cognos Analytics, Python, SQL, and API-driven data collection**, thi
 | 🧠 **Open in Colab** | <a href="https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone/blob/main/1.%20Accessing%20APIs.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a><br/>Run directly in Google Colab (no setup required) |
 | 💻 **View on GitHub** | [Browse source code, datasets, and visuals](https://github.com/AaronKGoldman/IBM-Data-Analytics-Capstone) |
 | 📊 **Dashboard Demo**   | Interactive IBM Cognos Analytics dashboards visualizing programming language and database trends |
-| 📄 **Executive Presentation (PDF)**  | [View executive slide deck](The_Future_of_Tech_Skills_Presentation.pdf) |
+| 📄 **Executive Presentation (pdf)**  | [View executive slide deck](The_Future_of_Tech_Skills_Presentation.pdf) |
 
 
 ---
