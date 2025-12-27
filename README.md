@@ -1,5 +1,8 @@
 <p align="center">
-  <img width="1536" height="1024" alt="ef08ebb0-4814-46b8-8267-cd431d0e5500" src="https://github.com/user-attachments/assets/9201cadb-c709-4368-9fe4-bca833ec27bf" />
+  <img width="1536" height="1024" alt="TECH SKILLS" src="https://github.com/user-attachments/assets/4e79e947-6ab2-4c6e-9a5d-88131074fd2f" />
+
+
+
 
 </p>
 
